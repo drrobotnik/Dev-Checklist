@@ -3,7 +3,7 @@ Project checklist
 
 # RoadMap
 
-### Admin UI: Caava Tab
+### Steps
 - [ ] Review Preliminary Information gathered
 - [ ] Set-up Project Version Control System (VCS)
 - [ ] Add Development timeline to calendar
